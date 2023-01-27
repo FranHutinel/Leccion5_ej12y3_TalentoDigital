@@ -5,6 +5,7 @@ al presionar el botón "ir arriba" de nuestra página web.
 
 Agrupación del proyecto:
 
+
 🚀La estructura de carpetas del proyecto es la siguiente:
 
 Carpeta assets. Esta contiene los directorios de img y js y css. Siendo index.html la raíz del proyecto.
